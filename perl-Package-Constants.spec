@@ -4,7 +4,7 @@
 #
 Name     : perl-Package-Constants
 Version  : 0.06
-Release  : 18
+Release  : 19
 URL      : https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Package-Constants-0.06.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BI/BINGOS/Package-Constants-0.06.tar.gz
 Summary  : 'List constants defined in a package'
